@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Najmiddin03
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me: nazarmatovn03@gmail.com
