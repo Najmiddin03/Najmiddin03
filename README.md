@@ -20,11 +20,11 @@
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=najmiddin03&show_icons=true&theme=dark&locale=en" alt="najmiddin03" />
-  <br>
-    <a href="https://leetcode.com/nedji03/"><img width="48%" src="https://leetcode.card.workers.dev/nedji03?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-  <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmiddin03&theme=dark&" alt="najmiddin03" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=najmiddin03&show_icons=true&theme=dark&locale=en" alt="najmiddin03" />
+  <br>
     <a href="https://github.com/nedji03"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmiddin03&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <br>
+    <a href="https://leetcode.com/nedji03/"><img width="48%" src="https://leetcode.card.workers.dev/nedji03?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
