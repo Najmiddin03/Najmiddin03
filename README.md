@@ -24,5 +24,7 @@
   <br>
     <a href="https://leetcode.com/nedji03/"><img width="48%" src="https://leetcode.card.workers.dev/nedji03?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
   <br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmiddin03&theme=dark&" alt="najmiddin03" />
+  <br>
     <a href="https://github.com/nedji03"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmiddin03&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
